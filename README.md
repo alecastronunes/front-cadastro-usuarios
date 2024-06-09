@@ -1,0 +1,2 @@
+<p align="center">Cadastro de Usuários</p>
+<p align="center">O projeto é sobre uma aplicação construída em React, para realizar o cadastro de usuários. No formulário são solicitadas 3 informações: nome, idade e email.</p>
